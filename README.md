@@ -6,7 +6,7 @@ O curso consiste em um sistema de filmes, com a possibilidade de cadastros, edi�
 
 ## Projeto Inicial
 
-Inicialmente foi disponibilizado no link https://github.com/RenanRB/curso-angular o projeto inicial básico, para clonagem e consequentemente a implementação dos módulos em angular. 
+Inicialmente foi disponibilizado no link https://github.com/RenanRB/curso-angular o projeto inicial básico, para implementação dos módulos em angular. 
 
 
 
