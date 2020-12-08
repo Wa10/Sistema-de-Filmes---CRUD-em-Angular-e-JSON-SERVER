@@ -12,6 +12,7 @@ export class InputSelectComponent{
   @Input() formGroup: FormGroup;
   @Input() titulo: string;
   @Input() controlName: string;
+  @Input() opcoes: Array<string>;
 
   constructor(public validacao: ValidarCamposService){}
 
